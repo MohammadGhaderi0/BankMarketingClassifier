@@ -1,10 +1,6 @@
-# BankMarketingClassifier
-
-A machine learning project for classifying bank marketing campaign success. This project includes data preprocessing, model training, and evaluation using techniques like SMOTE, ADASYN, and more to handle class imbalance.
-
 ## Overview
 
-This project aims to predict the success of bank marketing campaigns by classifying customer responses. The dataset used contains various customer attributes and campaign details.
+A machine learning project for classifying bank marketing campaign success. This project includes data preprocessing, model training, and evaluation using techniques like SMOTE, ADASYN, and more to handle class imbalance.
 
 ## Features
 
